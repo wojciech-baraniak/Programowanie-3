@@ -1,0 +1,1 @@
+silnia iteracyjna i rekurencyjna; algorytm przeszukiwania binarnego i inne algorytmy szukające
